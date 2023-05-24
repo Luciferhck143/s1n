@@ -1,6 +1,6 @@
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://blovjob.com/blowjob/big-cock-blowjob/perfect-big-cock-blowjob/perfect-erotic-blowjob-big-cock/gif-blowjob-oral-suck-cock-penis-dick-hot-sexy-smutty-com/')
+os.system('xdg-open https://web.facebook.com/groups/277547693132769/')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 
 try:
